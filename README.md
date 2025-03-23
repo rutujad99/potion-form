@@ -5,13 +5,13 @@ A Vue component for creating magical potions with validation and event handling.
 ## Installation
 
 ```bash
-npm install potion-form
+npm install vue-potion-form
 ```
 
 or
 
 ```bash
-yarn add potion-form
+yarn add vue-potion-form
 ```
 
 ## Usage
