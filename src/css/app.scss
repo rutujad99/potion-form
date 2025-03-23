@@ -1,0 +1,18 @@
+// app global css in SCSS form
+.potion-form .potion-input {
+  border-radius: 8px;
+}
+
+.potion-form .q-card {
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.potion-form .q-card:hover {
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.form-header {
+  border-left: 4px solid var(--q-primary);
+  padding-left: 12px;
+}
