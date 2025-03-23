@@ -24,7 +24,7 @@ First, you need to import and register the PotionForm plugin in your main.js fil
 // main.js
 import { createApp } from 'vue'
 import App from './App.vue'
-import PotionForm from 'potion-form'
+import PotionForm from 'vue-potion-form'
 
 const app = createApp(App)
 app.use(PotionForm)

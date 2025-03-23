@@ -1,6 +1,6 @@
 {
-  "name": "potion-form",
-  "version": "1.0.0",
+  "name": "vue-potion-form",
+  "version": "1.0.1",
   "description": "A form component for adding potions",
   "author": "",
   "type": "module",
